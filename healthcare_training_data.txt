@@ -1,0 +1,1198 @@
+### Instruction:
+My child has a sore throat and cough.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+My child has a sore throat and cough.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+May be due to anemia or sleep issues. Do:
+1. Get a CBC test.
+2. Increase iron-rich foods.
+3. Follow regular sleep schedule.
+
+
+### Instruction:
+I feel dizzy and my blood pressure is low.
+
+### Response:
+Possible cause: allergy or fungal infection. Suggestions:
+1. Apply anti-itch cream like Candid B.
+2. Wear loose cotton clothes.
+3. Visit dermatologist if spreading.
+
+
+### Instruction:
+I have a fever and body ache.
+
+### Response:
+Your child may have a throat infection. Suggested:
+1. Give warm water to drink.
+2. Use saline nasal drops.
+3. If fever or pus in throat appears, visit a pediatrician.
+
+
+### Instruction:
+I feel dizzy and my blood pressure is low.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+May be due to anemia or sleep issues. Do:
+1. Get a CBC test.
+2. Increase iron-rich foods.
+3. Follow regular sleep schedule.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+I have a fever and body ache.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+I feel extremely tired and can't concentrate.
+
+### Response:
+This might be due to cavity or infection. Do this:
+1. Rinse with warm salt water.
+2. Use clove oil for relief.
+3. Book a dentist appointment.
+
+
+### Instruction:
+I feel dizzy and my blood pressure is low.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+I have a toothache that worsens at night.
+
+### Response:
+You may be dehydrated or have hypotension. Do the following:
+1. Drink water with ORS or electrolyte solution.
+2. Lie down with feet elevated.
+3. If persists, get a blood pressure check and consult a physician.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+Your child may have a throat infection. Suggested:
+1. Give warm water to drink.
+2. Use saline nasal drops.
+3. If fever or pus in throat appears, visit a pediatrician.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+I feel extremely tired and can't concentrate.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+May be due to anemia or sleep issues. Do:
+1. Get a CBC test.
+2. Increase iron-rich foods.
+3. Follow regular sleep schedule.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+This might be due to cavity or infection. Do this:
+1. Rinse with warm salt water.
+2. Use clove oil for relief.
+3. Book a dentist appointment.
+
+
+### Instruction:
+My child has a sore throat and cough.
+
+### Response:
+This might be due to cavity or infection. Do this:
+1. Rinse with warm salt water.
+2. Use clove oil for relief.
+3. Book a dentist appointment.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+My skin is itchy and has red patches.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+You may be dehydrated or have hypotension. Do the following:
+1. Drink water with ORS or electrolyte solution.
+2. Lie down with feet elevated.
+3. If persists, get a blood pressure check and consult a physician.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+I have a toothache that worsens at night.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+My skin is itchy and has red patches.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+I have a fever and body ache.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+I feel extremely tired and can't concentrate.
+
+### Response:
+You may be dehydrated or have hypotension. Do the following:
+1. Drink water with ORS or electrolyte solution.
+2. Lie down with feet elevated.
+3. If persists, get a blood pressure check and consult a physician.
+
+
+### Instruction:
+I have a fever and body ache.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+I have a toothache that worsens at night.
+
+### Response:
+This could be a respiratory issue or heart-related problem. Suggested:
+1. Visit a nearby doctor urgently.
+2. Avoid physical exertion.
+3. Get an ECG and chest X-ray if advised.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+This could be a respiratory issue or heart-related problem. Suggested:
+1. Visit a nearby doctor urgently.
+2. Avoid physical exertion.
+3. Get an ECG and chest X-ray if advised.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+I feel extremely tired and can't concentrate.
+
+### Response:
+May be due to anemia or sleep issues. Do:
+1. Get a CBC test.
+2. Increase iron-rich foods.
+3. Follow regular sleep schedule.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+This could be a respiratory issue or heart-related problem. Suggested:
+1. Visit a nearby doctor urgently.
+2. Avoid physical exertion.
+3. Get an ECG and chest X-ray if advised.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+I have a fever and body ache.
+
+### Response:
+This could be a respiratory issue or heart-related problem. Suggested:
+1. Visit a nearby doctor urgently.
+2. Avoid physical exertion.
+3. Get an ECG and chest X-ray if advised.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+My skin is itchy and has red patches.
+
+### Response:
+This might be due to cavity or infection. Do this:
+1. Rinse with warm salt water.
+2. Use clove oil for relief.
+3. Book a dentist appointment.
+
+
+### Instruction:
+My skin is itchy and has red patches.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+This might be due to cavity or infection. Do this:
+1. Rinse with warm salt water.
+2. Use clove oil for relief.
+3. Book a dentist appointment.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+Your child may have a throat infection. Suggested:
+1. Give warm water to drink.
+2. Use saline nasal drops.
+3. If fever or pus in throat appears, visit a pediatrician.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+I have a toothache that worsens at night.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+I feel dizzy and my blood pressure is low.
+
+### Response:
+This might be due to cavity or infection. Do this:
+1. Rinse with warm salt water.
+2. Use clove oil for relief.
+3. Book a dentist appointment.
+
+
+### Instruction:
+My child has a sore throat and cough.
+
+### Response:
+Your child may have a throat infection. Suggested:
+1. Give warm water to drink.
+2. Use saline nasal drops.
+3. If fever or pus in throat appears, visit a pediatrician.
+
+
+### Instruction:
+My child has a sore throat and cough.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+I feel extremely tired and can't concentrate.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+I feel extremely tired and can't concentrate.
+
+### Response:
+Possible cause: allergy or fungal infection. Suggestions:
+1. Apply anti-itch cream like Candid B.
+2. Wear loose cotton clothes.
+3. Visit dermatologist if spreading.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+I feel dizzy and my blood pressure is low.
+
+### Response:
+You may be dehydrated or have hypotension. Do the following:
+1. Drink water with ORS or electrolyte solution.
+2. Lie down with feet elevated.
+3. If persists, get a blood pressure check and consult a physician.
+
+
+### Instruction:
+I have a fever and body ache.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+I have a fever and body ache.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+My skin is itchy and has red patches.
+
+### Response:
+May be due to anemia or sleep issues. Do:
+1. Get a CBC test.
+2. Increase iron-rich foods.
+3. Follow regular sleep schedule.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+I feel dizzy and my blood pressure is low.
+
+### Response:
+This might be due to cavity or infection. Do this:
+1. Rinse with warm salt water.
+2. Use clove oil for relief.
+3. Book a dentist appointment.
+
+
+### Instruction:
+I feel dizzy and my blood pressure is low.
+
+### Response:
+May be due to anemia or sleep issues. Do:
+1. Get a CBC test.
+2. Increase iron-rich foods.
+3. Follow regular sleep schedule.
+
+
+### Instruction:
+My skin is itchy and has red patches.
+
+### Response:
+May be due to anemia or sleep issues. Do:
+1. Get a CBC test.
+2. Increase iron-rich foods.
+3. Follow regular sleep schedule.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+This might be due to cavity or infection. Do this:
+1. Rinse with warm salt water.
+2. Use clove oil for relief.
+3. Book a dentist appointment.
+
+
+### Instruction:
+I feel extremely tired and can't concentrate.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+Your child may have a throat infection. Suggested:
+1. Give warm water to drink.
+2. Use saline nasal drops.
+3. If fever or pus in throat appears, visit a pediatrician.
+
+
+### Instruction:
+I feel dizzy and my blood pressure is low.
+
+### Response:
+You may be dehydrated or have hypotension. Do the following:
+1. Drink water with ORS or electrolyte solution.
+2. Lie down with feet elevated.
+3. If persists, get a blood pressure check and consult a physician.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+I feel dizzy and my blood pressure is low.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+I feel extremely tired and can't concentrate.
+
+### Response:
+Your child may have a throat infection. Suggested:
+1. Give warm water to drink.
+2. Use saline nasal drops.
+3. If fever or pus in throat appears, visit a pediatrician.
+
+
+### Instruction:
+I feel dizzy and my blood pressure is low.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+May be due to anemia or sleep issues. Do:
+1. Get a CBC test.
+2. Increase iron-rich foods.
+3. Follow regular sleep schedule.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+You may be dehydrated or have hypotension. Do the following:
+1. Drink water with ORS or electrolyte solution.
+2. Lie down with feet elevated.
+3. If persists, get a blood pressure check and consult a physician.
+
+
+### Instruction:
+My child has a sore throat and cough.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+This could be a respiratory issue or heart-related problem. Suggested:
+1. Visit a nearby doctor urgently.
+2. Avoid physical exertion.
+3. Get an ECG and chest X-ray if advised.
+
+
+### Instruction:
+I have a fever and body ache.
+
+### Response:
+This could be a respiratory issue or heart-related problem. Suggested:
+1. Visit a nearby doctor urgently.
+2. Avoid physical exertion.
+3. Get an ECG and chest X-ray if advised.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+Your child may have a throat infection. Suggested:
+1. Give warm water to drink.
+2. Use saline nasal drops.
+3. If fever or pus in throat appears, visit a pediatrician.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+May be due to anemia or sleep issues. Do:
+1. Get a CBC test.
+2. Increase iron-rich foods.
+3. Follow regular sleep schedule.
+
+
+### Instruction:
+I have a toothache that worsens at night.
+
+### Response:
+This might be due to cavity or infection. Do this:
+1. Rinse with warm salt water.
+2. Use clove oil for relief.
+3. Book a dentist appointment.
+
+
+### Instruction:
+My skin is itchy and has red patches.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+Possible cause: allergy or fungal infection. Suggestions:
+1. Apply anti-itch cream like Candid B.
+2. Wear loose cotton clothes.
+3. Visit dermatologist if spreading.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+Possible cause: allergy or fungal infection. Suggestions:
+1. Apply anti-itch cream like Candid B.
+2. Wear loose cotton clothes.
+3. Visit dermatologist if spreading.
+
+
+### Instruction:
+I have a toothache that worsens at night.
+
+### Response:
+You may be dehydrated or have hypotension. Do the following:
+1. Drink water with ORS or electrolyte solution.
+2. Lie down with feet elevated.
+3. If persists, get a blood pressure check and consult a physician.
+
+
+### Instruction:
+My skin is itchy and has red patches.
+
+### Response:
+Possible cause: allergy or fungal infection. Suggestions:
+1. Apply anti-itch cream like Candid B.
+2. Wear loose cotton clothes.
+3. Visit dermatologist if spreading.
+
+
+### Instruction:
+I have a fever and body ache.
+
+### Response:
+May be due to anemia or sleep issues. Do:
+1. Get a CBC test.
+2. Increase iron-rich foods.
+3. Follow regular sleep schedule.
+
+
+### Instruction:
+I feel dizzy and my blood pressure is low.
+
+### Response:
+May be due to anemia or sleep issues. Do:
+1. Get a CBC test.
+2. Increase iron-rich foods.
+3. Follow regular sleep schedule.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+This could be a respiratory issue or heart-related problem. Suggested:
+1. Visit a nearby doctor urgently.
+2. Avoid physical exertion.
+3. Get an ECG and chest X-ray if advised.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+Possible cause: allergy or fungal infection. Suggestions:
+1. Apply anti-itch cream like Candid B.
+2. Wear loose cotton clothes.
+3. Visit dermatologist if spreading.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+Possible cause: allergy or fungal infection. Suggestions:
+1. Apply anti-itch cream like Candid B.
+2. Wear loose cotton clothes.
+3. Visit dermatologist if spreading.
+
+
+### Instruction:
+My child has a sore throat and cough.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+This might be due to cavity or infection. Do this:
+1. Rinse with warm salt water.
+2. Use clove oil for relief.
+3. Book a dentist appointment.
+
+
+### Instruction:
+I feel extremely tired and can't concentrate.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+I'm experiencing chest pain while breathing.
+
+### Response:
+This might be due to cavity or infection. Do this:
+1. Rinse with warm salt water.
+2. Use clove oil for relief.
+3. Book a dentist appointment.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+This could be a respiratory issue or heart-related problem. Suggested:
+1. Visit a nearby doctor urgently.
+2. Avoid physical exertion.
+3. Get an ECG and chest X-ray if advised.
+
+
+### Instruction:
+I have a fever and body ache.
+
+### Response:
+You may be dehydrated or have hypotension. Do the following:
+1. Drink water with ORS or electrolyte solution.
+2. Lie down with feet elevated.
+3. If persists, get a blood pressure check and consult a physician.
+
+
+### Instruction:
+My skin is itchy and has red patches.
+
+### Response:
+May be due to anemia or sleep issues. Do:
+1. Get a CBC test.
+2. Increase iron-rich foods.
+3. Follow regular sleep schedule.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+May be due to anemia or sleep issues. Do:
+1. Get a CBC test.
+2. Increase iron-rich foods.
+3. Follow regular sleep schedule.
+
+
+### Instruction:
+My child has a sore throat and cough.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+I have a fever and body ache.
+
+### Response:
+This might be due to cavity or infection. Do this:
+1. Rinse with warm salt water.
+2. Use clove oil for relief.
+3. Book a dentist appointment.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+Your child may have a throat infection. Suggested:
+1. Give warm water to drink.
+2. Use saline nasal drops.
+3. If fever or pus in throat appears, visit a pediatrician.
+
+
+### Instruction:
+I feel extremely tired and can't concentrate.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+I feel extremely tired and can't concentrate.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+You may be dehydrated or have hypotension. Do the following:
+1. Drink water with ORS or electrolyte solution.
+2. Lie down with feet elevated.
+3. If persists, get a blood pressure check and consult a physician.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+Could be a sign of sinusitis or migraine. Try this:
+1. Use steam inhalation.
+2. Avoid screen exposure.
+3. Consult a neurologist if regular.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+My joints hurt and I have trouble moving.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+I feel dizzy and my blood pressure is low.
+
+### Response:
+You may be experiencing a viral infection. Recommended steps:
+1. Take paracetamol 500mg every 6 hours if fever persists.
+2. Drink plenty of fluids and get rest.
+3. Monitor temperature and consult a doctor if it crosses 102°F.
+
+
+### Instruction:
+I have a fever and body ache.
+
+### Response:
+Possible cause: allergy or fungal infection. Suggestions:
+1. Apply anti-itch cream like Candid B.
+2. Wear loose cotton clothes.
+3. Visit dermatologist if spreading.
+
+
+### Instruction:
+I have frequent headaches in the morning.
+
+### Response:
+Joint issues could mean arthritis. Suggestions:
+1. Take pain relievers if needed.
+2. Apply hot/cold compress.
+3. Visit an orthopedician for tests.
+
+
+### Instruction:
+My skin is itchy and has red patches.
+
+### Response:
+You may have acid reflux or indigestion. Do this:
+1. Avoid spicy food and caffeine.
+2. Try an antacid like Gelusil or Digene.
+3. If pain continues, get an ultrasound.
+
+
+### Instruction:
+I have stomach pain after eating.
+
+### Response:
+Possible cause: allergy or fungal infection. Suggestions:
+1. Apply anti-itch cream like Candid B.
+2. Wear loose cotton clothes.
+3. Visit dermatologist if spreading.
+
+
+### Instruction:
+I feel dizzy and my blood pressure is low.
+
+### Response:
+This could be a respiratory issue or heart-related problem. Suggested:
+1. Visit a nearby doctor urgently.
+2. Avoid physical exertion.
+3. Get an ECG and chest X-ray if advised.
